@@ -1,0 +1,26 @@
+{
+  "name": "GraphQL_Node",
+  "version": "1.0.0",
+  "description": "Repositório para estudo da implementação de graphql com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcus-campos/GraphQL_Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcus-campos/GraphQL_Node/issues"
+  },
+  "homepage": "https://github.com/marcus-campos/GraphQL_Node#readme",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-clean": "0.3.2",
+    "gulp-typescript": "3.2.2",
+    "typescript": "2.5.3"
+  }
+}
